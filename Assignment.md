@@ -11,7 +11,7 @@ Describe the steps for installing dart and flutter on your operating system(Wind
 
 **Installing Flutter:**
 
-1. Download the Flutter SDK from the official Flutter website.
+1. Download the Flutter SDK from the official Flutter website at https://flutter.dev/.
 2. Extract the downloaded ZIP file to a desired location (e.g., C:\src\flutter).
 3. Add the flutter/bin directory to your system PATH:
 4. Right-click on "This PC" or "Computer" on your desktop or in File Explorer.

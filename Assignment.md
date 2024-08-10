@@ -144,7 +144,6 @@ The flutter doctor command is a diagnostic tool used in the Flutter installation
     Type python --version and press Enter to check the installed Python version.
     Optionally, type pip --version to verify that pip, Python’s package installer, is also installed.
 
-****
 
 **installing python in Linux (Ubuntu):**
 
